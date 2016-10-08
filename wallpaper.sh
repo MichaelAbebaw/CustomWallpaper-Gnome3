@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Set the timer (s for Seconds, m for Minute, h for Hour)
-timer=5s
+timer=1h
 #Set wallpaper directory path
 path="/home/michael/Documents/Wallpapers"
 
